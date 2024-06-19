@@ -118,7 +118,7 @@ h3 {
 
 width: 1980;
 height: 408px;
-background-image: url(../Imagenes/MELTING-02.png);
+background-image: url(../imagenes/MELTING-02.png);
 animation: melting 3s infinite;
 animation-timing-function: steps(24);
 justify-content: center;
